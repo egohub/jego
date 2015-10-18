@@ -2,10 +2,10 @@
   "name": "polymer-jekyll-from-scratch",
   "version": "0.0.0",
   "authors": [
-    "Julia Ebert <ebertjulia@gmail.com>"
+    "egohub <egohub@hackermail.com>"
   ],
   "license": "MIT",
-  "homepage": "juliaebert.com",
+  "homepage": "http://egohub.github.io/jego/",
   "ignore": [
     "**/.*",
     "node_modules",
